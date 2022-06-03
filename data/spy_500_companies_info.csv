@@ -1,0 +1,505 @@
+Code,Name,Sector,Exchange,CCY,CurrentPrice,MarketCap(Billions)
+MMM,3M,Industrials,NYQ,USD,146.42,83.321618432
+AOS,A. O. Smith,Industrials,NYQ,USD,60.44,9.42906368
+ABT,Abbott,Health Care,NYQ,USD,115.08,201.498181632
+ABBV,AbbVie,Health Care,NYQ,USD,146.02,258.03341824
+ABMD,Abiomed,Health Care,NMS,USD,255.36,11.635197952
+ACN,Accenture,Information Technology,NYQ,USD,298.65,189.316923392
+ATVI,Activision Blizzard,Communication Services,NMS,USD,77.41,60.525412352
+ADM,ADM,Consumer Staples,NYQ,USD,86.67,48.769900544
+ADBE,Adobe,Information Technology,NMS,USD,418.16,197.580603392
+ADP,ADP,Information Technology,NMS,USD,219.32,91.620278272
+AAP,Advance Auto Parts,Consumer Discretionary,NYQ,USD,187.66,11.379664896
+AES,AES,Utilities,NYQ,USD,21.88,14.612775936
+AFL,Aflac,Financials,NYQ,USD,59.81,38.52750848
+A,Agilent Technologies,Health Care,NYQ,USD,123.09,36.803907584
+AIG,AIG,Financials,NYQ,USD,57.84,45.820387328
+APD,Air Products,Materials,NYQ,USD,243.51,54.003941376
+AKAM,Akamai,Information Technology,NMS,USD,101.13,16.211643392
+ALK,Alaska Air Group,Industrials,NYQ,USD,46.57,5.872104448
+ALB,Albemarle,Materials,NYQ,USD,240.12,28.121171968
+ARE,Alexandria,Real Estate,NYQ,USD,163.81,26.736740352
+ALGN,Align,Health Care,NMS,USD,265.17,20.896856064
+ALLE,Allegion,Industrials,NYQ,USD,111.84,9.820099584
+LNT,Alliant Energy,Utilities,NMS,USD,63.19,15.848936448
+ALL,Allstate,Financials,NYQ,USD,134.7,37.04020992
+GOOGL,Alphabet (Class A),Communication Services,NMS,USD,2277.84,1501.695574016
+GOOG,Alphabet (Class C),Communication Services,NMS,USD,2282.74,1501.271425024
+MO,Altria,Consumer Staples,NYQ,USD,54.08,97.9150848
+AMZN,Amazon,Consumer Discretionary,NMS,USD,2433.68,1238.061678592
+AMCR,Amcor,Materials,NYQ,USD,13.19,19.82153728
+AMD,AMD,Information Technology,NMS,USD,101.22,164.028022784
+AEE,Ameren,Utilities,NYQ,USD,94.37,24.368883712
+AAL,American Airlines Group,Industrials,NMS,USD,17.29,11.230114816
+AEP,American Electric Power,Utilities,NMS,USD,102.04,52.402028544
+AXP,American Express,Financials,NYQ,USD,165.76,124.827213824
+AMT,American Tower,Real Estate,NYQ,USD,252.56,115.238838272
+AWK,American Water,Utilities,NYQ,USD,151.92,27.61191424
+AMP,Ameriprise Financial,Financials,NYQ,USD,270.44,29.722437632
+ABC,AmerisourceBergen,Health Care,NYQ,USD,150.01,31.421693952
+AME,Ametek,Industrials,NYQ,USD,120.43,28.04862976
+AMGN,Amgen,Health Care,NMS,USD,253.42,135.376961536
+APH,Amphenol,Information Technology,NYQ,USD,69.28,41.369718784
+ADI,Analog Devices,Information Technology,NMS,USD,164.77,85.648441344
+ANSS,Ansys,Information Technology,NMS,USD,254.92,22.175514624
+ANTM,Anthem,Health Care,NYQ,USD,499.19,120.347213824
+AON,Aon,Financials,NYQ,USD,270.59,57.468985344
+APA,APA Corporation,Energy,NMS,USD,47.62,16.106607616
+AAPL,Apple,Information Technology,NMS,USD,148.71,2406.901088256
+AMAT,Applied Materials,Information Technology,NMS,USD,114.46,99.574136832
+APTV,Aptiv,Consumer Discretionary,NYQ,USD,107.52,29.130500096
+ANET,Arista,Information Technology,NYQ,USD,101.67,31.243190272
+AIZ,Assurant,Financials,NYQ,USD,178.23,9.639586816
+T,AT&T,Communication Services,NYQ,USD,21.22,151.913971712
+ATO,Atmos Energy,Utilities,NYQ,USD,116.43,16.185517056
+ADSK,Autodesk,Information Technology,NMS,USD,207.38,45.110751232
+AZO,AutoZone,Consumer Discretionary,NYQ,USD,2035.11,39.83931392
+AVB,AvalonBay Communities,Real Estate,NYQ,USD,207.57,29.02202368
+AVY,Avery Dennison,Materials,NYQ,USD,173.07,14.14229504
+BKR,Baker Hughes,Energy,NMS,USD,37.41,40.54870016
+BALL,Ball,Materials,NYQ,USD,71.27,22.791360512
+BAC,Bank of America,Financials,NYQ,USD,36.67,295.44579072
+BBWI,Bath & Body Works,Consumer Discretionary,NYQ,USD,39.57,9.437048832
+BAX,Baxter,Health Care,NYQ,USD,74.47,37.497802752
+BDX,Becton Dickinson,Health Care,NYQ,USD,251.4,71.66533632
+WRB,Berkley,Financials,NYQ,USD,70.67,18.741188608
+BRK-B,Berkshire Hathaway,Financials,NYQ,USD,312.21,688.881926144
+BBY,Best Buy,Consumer Discretionary,NYQ,USD,80.08,18.015438848
+BIO,Bio-Rad,Health Care,NYQ,USD,527.79,15.505097728
+TECH,Bio-Techne,Health Care,NMS,USD,359.95,14.122098688
+BIIB,Biogen,Health Care,NMS,USD,200.0,29.290399744
+BLK,BlackRock,Financials,NYQ,USD,660.51,100.06925312
+BK,BNY Mellon,Financials,NYQ,USD,45.65,36.8759808
+BA,Boeing,Industrials,NYQ,USD,130.65,77.297238016
+BKNG,Booking Holdings,Consumer Discretionary,NMS,USD,2238.57,90.938105856
+BWA,BorgWarner,Consumer Discretionary,NYQ,USD,40.12,9.659652096
+BXP,Boston Properties,Real Estate,NYQ,USD,108.17,16.95153664
+BSX,Boston Scientific,Health Care,NYQ,USD,39.92,57.068433408
+BMY,Bristol Myers Squibb,Health Care,NYQ,USD,74.96,159.59433216
+AVGO,Broadcom,Information Technology,NMS,USD,573.62,241.721737216
+BR,Broadridge,Information Technology,NYQ,USD,144.73,16.966262784
+BRO,Brown & Brown,Financials,NYQ,USD,58.01,16.374656
+BF-B,Brown–Forman,Consumer Staples,NYQ,USD,65.51,30.876239872
+CHRW,C.H. Robinson,Industrials,NMS,USD,108.94,13.864357888
+CDNS,Cadence,Information Technology,NMS,USD,153.22,42.25179648
+CZR,Caesars Entertainment,Consumer Discretionary,NMS,USD,49.56,10.62397952
+CPT,Camden,Real Estate,NYQ,USD,143.56,15.29215488
+CPB,Campbell's,Consumer Staples,NYQ,USD,47.0,14.180087808
+COF,Capital One,Financials,NYQ,USD,124.96,49.115652096
+CAH,Cardinal Health,Health Care,NYQ,USD,55.43,15.100628992
+KMX,CarMax,Consumer Discretionary,NYQ,USD,98.46,15.770534912
+CCL,Carnival,Consumer Discretionary,NYQ,USD,13.47,15.833042944
+CARR,Carrier,Industrials,NYQ,USD,38.94,33.030541312
+CTLT,Catalent,Health Care,NYQ,USD,104.48,18.724173824
+CAT,Caterpillar,Industrials,NYQ,USD,217.57,116.04619264
+CBOE,Cboe,Financials,BTS,USD,112.42,11.937767424
+CBRE,CBRE,Real Estate,NYQ,USD,79.59,26.014865408
+CDW,CDW,Information Technology,NMS,USD,171.21,23.133210624
+CE,Celanese,Materials,NYQ,USD,155.22,16.811722752
+CNC,Centene,Health Care,NYQ,USD,81.21,47.49867008
+CNP,CenterPoint Energy,Utilities,NYQ,USD,32.06,20.180135936
+CDAY,Ceridian,Information Technology,NYQ,USD,53.79,8.210774016
+CERN,Cerner,Health Care,NMS,USD,94.69,27.848138752
+CF,CF Industries,Materials,NYQ,USD,95.51,19.923576832
+CRL,Charles River,Health Care,NYQ,USD,229.69,11.669378048
+SCHW,Charles Schwab,Financials,NYQ,USD,69.57,131.929063424
+CHTR,Charter Communications,Communication Services,NMS,USD,495.38,94.861795328
+CVX,Chevron,Energy,NYQ,USD,176.32,346.435321856
+CMG,Chipotle Mexican Grill,Consumer Discretionary,NYQ,USD,1374.72,38.44046848
+CB,Chubb,Financials,NYQ,USD,208.64,88.40306688
+CHD,Church & Dwight,Consumer Staples,NYQ,USD,88.37,21.453674496
+CI,Cigna,Health Care,NYQ,USD,264.58,83.944087552
+CINF,Cincinnati Financial,Financials,NMS,USD,126.11,20.222369792
+CTAS,Cintas,Industrials,NMS,USD,390.8,39.988609024
+CSCO,Cisco,Information Technology,NMS,USD,45.23,187.295612928
+C,Citigroup,Financials,NYQ,USD,52.39,101.73718528
+CFG,Citizens,Financials,NYQ,USD,40.04,19.837659136
+CTXS,Citrix,Information Technology,NMS,USD,100.84,12.764326912
+CLX,Clorox,Consumer Staples,NYQ,USD,140.7,17.31735552
+CME,CME Group,Financials,NMS,USD,199.37,71.65775872
+CMS,CMS Energy,Utilities,NYQ,USD,70.83,20.5498368
+KO,Coca-Cola,Consumer Staples,NYQ,USD,63.07,273.410326528
+CTSH,Cognizant,Information Technology,NMS,USD,74.18,38.66068992
+CL,Colgate-Palmolive,Consumer Staples,NYQ,USD,78.2,65.527062528
+CMCSA,Comcast,Communication Services,NMS,USD,43.93,196.806852608
+CMA,Comerica,Financials,NYQ,USD,80.77,10.5614848
+CAG,Conagra Brands,Consumer Staples,NYQ,USD,32.52,15.605535744
+COP,ConocoPhillips,Energy,NYQ,USD,115.75,149.71682816
+ED,Con Edison,Utilities,NYQ,USD,98.63,34.944114688
+STZ,Constellation Brands,Consumer Staples,NYQ,USD,244.18,46.705283072
+CEG,Constellation Energy,Utilities,NMS,USD,63.65,20.794392576
+COO,CooperCompanies,Health Care,NYQ,USD,343.21,16.92080128
+CPRT,Copart,Industrials,NMS,USD,112.91,26.835658752
+GLW,Corning,Information Technology,NYQ,USD,35.44,29.933047808
+CTVA,Corteva,Materials,NYQ,USD,62.33,45.108219904
+COST,Costco,Consumer Staples,NMS,USD,456.99,202.459807744
+CTRA,Coterra,Energy,NYQ,USD,35.19,28.356276224
+CCI,Crown Castle,Real Estate,NYQ,USD,188.09,81.448984576
+CSX,CSX,Industrials,NMS,USD,32.0,70.975356928
+CMI,Cummins,Industrials,NYQ,USD,207.85,29.729202176
+CVS,CVS Health,Health Care,NYQ,USD,96.54,127.438594048
+DHI,D.R. Horton,Consumer Discretionary,NYQ,USD,75.07,26.738507776
+DHR,Danaher,Health Care,NYQ,USD,261.0,186.504609792
+DRI,Darden,Consumer Discretionary,NYQ,USD,123.93,16.08425472
+DVA,DaVita,Health Care,NYQ,USD,95.4,9.721260032
+DE,Deere & Co.,Industrials,NYQ,USD,352.15,108.253372416
+DAL,Delta Air Lines,Industrials,NYQ,USD,39.54,25.306155008
+XRAY,Dentsply Sirona,Health Care,NMS,USD,39.04,8.53441792
+DVN,Devon,Energy,NYQ,USD,76.48,51.77696256
+DXCM,DexCom,Health Care,NMS,USD,283.85,27.511310336
+FANG,Diamondback,Energy,NMS,USD,152.89,27.699847168
+DLR,Digital Realty,Real Estate,NYQ,USD,137.44,39.00368896
+DFS,Discover,Financials,NYQ,USD,111.2,32.590051328
+DISH,Dish,Communication Services,NMS,USD,22.18,11.728828416
+DIS,Disney,Communication Services,NYQ,USD,109.19,198.470303744
+DG,Dollar General,Consumer Discretionary,NYQ,USD,218.82,50.701910016
+DLTR,Dollar Tree,Consumer Discretionary,NMS,USD,161.01,36.220166144
+D,Dominion Energy,Utilities,NYQ,USD,83.71,67.797393408
+DPZ,Domino's,Consumer Discretionary,NYQ,USD,360.85,13.1206144
+DOV,Dover,Industrials,NYQ,USD,132.78,19.118327808
+DOW,Dow,Materials,NYQ,USD,68.11,50.375110656
+DTE,DTE,Utilities,NYQ,USD,132.56,25.680451584
+DUK,Duke Energy,Utilities,NYQ,USD,111.67,85.912526848
+DRE,Duke Realty,Real Estate,NYQ,USD,52.64,20.04794368
+DD,DuPont,Materials,NYQ,USD,67.42,34.930569216
+DXC,DXC Technology,Information Technology,NYQ,USD,34.57,8.71990272
+EMN,Eastman,Materials,NYQ,USD,109.64,14.740001792
+ETN,Eaton,Industrials,NYQ,USD,137.72,54.895194112
+EBAY,eBay,Consumer Discretionary,NMS,USD,46.97,29.403406336
+ECL,Ecolab,Materials,NYQ,USD,162.87,46.673166336
+EIX,Edison International,Utilities,NYQ,USD,69.73,26.490986496
+EW,Edwards Lifesciences,Health Care,NYQ,USD,97.34,60.772671488
+EA,Electronic Arts,Communication Services,NMS,USD,139.53,39.460200448
+EMR,Emerson,Industrials,NYQ,USD,88.57,52.761059328
+ENPH,Enphase,Information Technology,NGM,USD,182.49,24.620091392
+ETR,Entergy,Utilities,NYQ,USD,120.18,24.153894912
+EOG,EOG Resources,Energy,NYQ,USD,139.93,81.871634432
+EPAM,EPAM,Information Technology,NYQ,USD,326.28,18.506471424
+EFX,Equifax,Industrials,NYQ,USD,198.58,24.227158016
+EQIX,Equinix,Real Estate,NMS,USD,679.0,61.137973248
+EQR,Equity Residential,Real Estate,NYQ,USD,76.94,28.853731328
+ESS,Essex,Real Estate,NYQ,USD,282.6,18.393812992
+EL,Estée Lauder Companies,Consumer Staples,NYQ,USD,250.42,90.13792768
+ETSY,Etsy,Consumer Discretionary,NMS,USD,80.94,10.261654528
+RE,Everest,Financials,NYQ,USD,278.52,10.96505344
+EVRG,Evergy,Utilities,NYQ,USD,70.01,16.165239808
+ES,Eversource,Utilities,NYQ,USD,92.12,31.671410688
+EXC,Exelon,Utilities,NMS,USD,49.19,48.123461632
+EXPE,Expedia Group,Consumer Discretionary,NMS,USD,126.23,19.127379968
+EXPD,Expeditors,Industrials,NMS,USD,107.84,18.268526592
+EXR,Extra Space Storage,Real Estate,NYQ,USD,178.65,23.919804416
+XOM,ExxonMobil,Energy,NYQ,USD,97.84,416.864894976
+FFIV,F5,Information Technology,NMS,USD,161.89,9.91242752
+FDS,FactSet,Financials,NYQ,USD,374.59,14.158452736
+FAST,Fastenal,Industrials,NMS,USD,53.91,31.00703744
+FRT,Federal Realty,Real Estate,NYQ,USD,113.68,8.8431104
+FDX,FedEx,Industrials,NYQ,USD,218.67,57.940770816
+FITB,Fifth Third Bank,Financials,NMS,USD,38.74,26.440282112
+FRC,First Republic,Financials,NYQ,USD,153.63,27.543709696
+FE,FirstEnergy,Utilities,NYQ,USD,42.56,24.26720256
+FIS,FIS,Information Technology,NYQ,USD,103.22,62.854479872
+FISV,Fiserv,Information Technology,NMS,USD,99.16,65.468608512
+FLT,Fleetcor,Information Technology,NYQ,USD,242.72,19.708524544
+FMC,FMC,Materials,NYQ,USD,121.71,15.426864128
+F,Ford,Consumer Discretionary,NYQ,USD,13.55,54.149050368
+FTNT,Fortinet,Information Technology,NMS,USD,289.06,47.261310976
+FTV,Fortive,Industrials,NYQ,USD,61.37,22.005929984
+FBHS,Fortune Brands,Industrials,NYQ,USD,68.45,9.290991616
+FOXA,Fox Corporation (Class A),Communication Services,NMS,USD,34.86,19.20590848
+FOX,Fox Corporation (Class B),Communication Services,NMS,USD,32.15,19.144812544
+BEN,Franklin Templeton,Financials,NYQ,USD,26.56,13.327675392
+FCX,Freeport-McMoRan,Materials,NYQ,USD,39.64,58.210152448
+AJG,Gallagher,Financials,NYQ,USD,160.51,33.27019008
+GRMN,Garmin,Consumer Discretionary,NYQ,USD,103.51,19.907250176
+IT,Gartner,Information Technology,NYQ,USD,260.86,21.452863488
+GE,GE,Industrials,NYQ,USD,77.52,85.127815168
+GNRC,Generac,Industrials,NYQ,USD,243.86,15.385127936
+GD,General Dynamics,Industrials,NYQ,USD,226.22,63.16582912
+GIS,General Mills,Consumer Staples,NYQ,USD,69.12,41.693667328
+GPC,Genuine Parts,Consumer Discretionary,NYQ,USD,135.82,19.343757312
+GILD,Gilead,Health Care,NMS,USD,64.77,81.246191616
+GL,Globe Life,Financials,NYQ,USD,97.32,9.827275776
+GPN,Global Payments,Information Technology,NYQ,USD,127.51,36.997156864
+GM,GM,Consumer Discretionary,NYQ,USD,38.27,55.562682368
+GS,Goldman Sachs,Financials,NYQ,USD,321.85,107.362074624
+GWW,Grainger,Industrials,NYQ,USD,494.39,25.470973952
+HAL,Halliburton,Energy,NYQ,USD,41.4,37.057806336
+HIG,Hartford (The),Financials,NYQ,USD,71.28,24.260360192
+HAS,Hasbro,Consumer Discretionary,NMS,USD,89.45,12.339359744
+HCA,HCA Healthcare,Health Care,NYQ,USD,206.95,64.366211072
+PEAK,Healthpeak,Real Estate,NYQ,USD,29.33,15.810981888
+HSIC,Henry Schein,Health Care,NMS,USD,84.28,11.68744448
+HSY,Hershey's,Consumer Staples,NYQ,USD,209.69,43.196981248
+HES,Hess,Energy,NYQ,USD,127.45,39.474704384
+HPE,Hewlett Packard Enterprise,Information Technology,NYQ,USD,15.78,20.410482688
+HLT,Hilton,Consumer Discretionary,NYQ,USD,138.42,38.58069504
+HOLX,Hologic,Health Care,NMS,USD,74.65,18.768576512
+HD,Home Depot,Consumer Discretionary,NYQ,USD,297.19,310.33769984
+HON,Honeywell,Industrials,NMS,USD,191.91,132.115259392
+HRL,Hormel,Consumer Staples,NYQ,USD,48.28,26.195277824
+HST,Host Hotels & Resorts,Real Estate,NMS,USD,20.43,14.58773504
+HWM,Howmet Aerospace,Industrials,NYQ,USD,35.68,15.243138048
+HPQ,HP,Information Technology,NYQ,USD,40.34,43.676925952
+HUM,Humana,Health Care,NYQ,USD,447.59,57.53053184
+HII,Huntington Ingalls Industries,Industrials,NYQ,USD,210.46,8.431238144
+HBAN,Huntington National Bank,Financials,NMS,USD,13.59,20.039000064
+IEX,IDEX,Industrials,NYQ,USD,191.4,14.552429568
+IDXX,Idexx Laboratories,Health Care,NMS,USD,369.63,31.342258176
+ITW,Illinois Tool Works,Industrials,NYQ,USD,205.98,64.653205504
+ILMN,Illumina,Health Care,NMS,USD,235.2,36.761759744
+INCY,Incyte,Health Care,NMS,USD,74.98,16.562408448
+IR,Ingersoll Rand,Industrials,NYQ,USD,47.25,19.258390528
+INTC,Intel,Information Technology,NMS,USD,44.11,179.3953792
+ICE,Intercontinental Exchange,Financials,NYQ,USD,101.99,57.46157568
+IBM,IBM,Information Technology,NYQ,USD,139.43,124.973891584
+IP,International Paper,Materials,NYQ,USD,47.45,18.375630848
+IPG,Interpublic Group,Communication Services,NYQ,USD,31.68,12.474159104
+IFF,International Flavors & Fragrances,Materials,NYQ,USD,132.16,33.640933376
+INTU,Intuit,Information Technology,NMS,USD,408.37,115.636912128
+ISRG,Intuitive Surgical,Health Care,NMS,USD,216.39,77.302513664
+IVZ,Invesco,Financials,NYQ,USD,19.07,8.79521792
+IPGP,IPG Photonics,Information Technology,NMS,USD,102.27,5.451900928
+IQV,IQVIA,Health Care,NYQ,USD,210.11,40.139415552
+IRM,Iron Mountain,Real Estate,NYQ,USD,53.42,15.467761664
+JBHT,J.B. Hunt,Industrials,NMS,USD,172.91,18.157971456
+JKHY,Jack Henry & Associates,Information Technology,NMS,USD,186.13,13.781252096
+J,Jacobs,Industrials,NYQ,USD,138.86,17.975842816
+JNJ,Johnson & Johnson,Health Care,NYQ,USD,177.71,467.8393856
+JCI,Johnson Controls,Industrials,NYQ,USD,54.0,38.033928192
+JPM,JPMorgan Chase,Financials,NYQ,USD,129.91,393.411657728
+JNPR,Juniper Networks,Information Technology,NYQ,USD,30.75,9.999315968
+K,Kellogg's,Consumer Staples,NYQ,USD,69.0,23.537487872
+KEY,KeyCorp,Financials,NYQ,USD,19.5,18.155630592
+KEYS,Keysight,Information Technology,NYQ,USD,143.55,26.275680256
+KMB,Kimberly-Clark,Consumer Staples,NYQ,USD,131.4,44.244611072
+KIM,Kimco Realty,Real Estate,NYQ,USD,22.94,14.140859392
+KMI,Kinder Morgan,Energy,NYQ,USD,20.02,45.393948672
+KLAC,KLA,Information Technology,NMS,USD,356.99,54.127538176
+KHC,Kraft Heinz,Consumer Staples,NMS,USD,37.25,45.595488256
+KR,Kroger,Consumer Staples,NYQ,USD,51.35,37.755396096
+LHX,L3Harris,Industrials,NYQ,USD,241.49,47.386374144
+LH,LabCorp,Health Care,NYQ,USD,245.78,23.52114688
+LRCX,Lam Research,Information Technology,NMS,USD,505.79,71.21473536
+LW,Lamb Weston,Consumer Staples,NYQ,USD,66.57,9.723746304
+LVS,Las Vegas Sands,Consumer Discretionary,NYQ,USD,35.16,26.861889536
+LDOS,Leidos,Industrials,NYQ,USD,104.74,14.699107328
+LEN,Lennar,Consumer Discretionary,NYQ,USD,79.63,24.127492096
+LLY,Lilly,Health Care,NYQ,USD,311.08,297.576628224
+LNC,Lincoln Financial,Financials,NYQ,USD,56.85,10.2733056
+LIN,Linde,Materials,NYQ,USD,319.61,163.817701376
+LYV,Live Nation Entertainment,Communication Services,NYQ,USD,94.51,21.232617472
+LKQ,LKQ Corporation,Consumer Discretionary,NMS,USD,50.55,14.734870528
+LMT,Lockheed Martin,Industrials,NYQ,USD,439.3,121.152782336
+L,Loews Corporation,Financials,NYQ,USD,64.75,16.426039296
+LOW,Lowe's,Consumer Discretionary,NYQ,USD,191.72,129.170776064
+LUMN,Lumen,Communication Services,NYQ,USD,11.96,12.24572416
+LYB,LyondellBasell,Materials,NYQ,USD,114.31,38.040539136
+MTB,M&T Bank,Financials,NYQ,USD,177.79,22.87890432
+MRO,Marathon Oil,Energy,NYQ,USD,31.38,24.430491648
+MPC,Marathon Petroleum,Energy,NYQ,USD,103.91,63.965749248
+MKTX,MarketAxess,Financials,NMS,USD,276.91,10.529917952
+MAR,Marriott International,Consumer Discretionary,NMS,USD,170.59,55.558262784
+MMC,Marsh & McLennan,Financials,NYQ,USD,156.41,78.970626048
+MLM,Martin Marietta,Materials,NYQ,USD,337.07,21.027067904
+MAS,Masco,Industrials,NYQ,USD,55.67,13.588323328
+MA,Mastercard,Information Technology,NYQ,USD,357.06,350.831804416
+MTCH,Match Group,Communication Services,NMS,USD,79.24,22.431653888
+MKC,McCormick,Consumer Staples,NYQ,USD,90.72,24.253448192
+MCD,McDonald's,Consumer Discretionary,NYQ,USD,249.28,186.273234944
+MCK,McKesson,Health Care,NYQ,USD,322.21,49.195667456
+MDT,Medtronic,Health Care,NYQ,USD,97.78,131.47107328
+MRK,Merck,Health Care,NYQ,USD,91.14,230.214172672
+FB,Meta,Communication Services,NMS,USD,188.64,524.751208448
+MET,MetLife,Financials,NYQ,USD,66.66,56.071729152
+MTD,Mettler Toledo,Health Care,NYQ,USD,1263.4,29.040134144
+MGM,MGM Resorts,Consumer Discretionary,NYQ,USD,34.19,16.033741824
+MCHP,Microchip,Information Technology,NMS,USD,71.16,39.4846208
+MU,Micron,Information Technology,NMS,USD,73.55,82.388508672
+MSFT,Microsoft,Information Technology,NMS,USD,272.42,2045.323902976
+MAA,Mid-America Apartments,Real Estate,NYQ,USD,179.77,20.69835776
+MRNA,Moderna,Health Care,NMS,USD,143.4,58.141523968
+MHK,Mohawk Industries,Consumer Discretionary,NYQ,USD,139.61,9.456120832
+MOH,Molina Healthcare,Health Care,NYQ,USD,287.38,16.782992384
+TAP,Molson Coors,Consumer Staples,NYQ,USD,54.72,11.8987008
+MDLZ,Mondelez International,Consumer Staples,NMS,USD,62.91,87.757561856
+MPWR,Monolithic Power Systems,Information Technology,NMS,USD,448.25,20.66118656
+MNST,Monster Beverage,Consumer Staples,NMS,USD,88.05,46.59068928
+MCO,Moody's,Financials,NYQ,USD,282.38,52.494442496
+MS,Morgan Stanley,Financials,NYQ,USD,85.0,152.524849152
+MOS,Mosaic,Materials,NYQ,USD,58.69,21.739362304
+MSI,Motorola Solutions,Information Technology,NYQ,USD,217.62,36.755361792
+MSCI,MSCI,Financials,NYQ,USD,431.45,35.57163008
+NDAQ,Nasdaq,Financials,NMS,USD,152.27,25.462894592
+NTAP,NetApp,Information Technology,NMS,USD,72.51,16.117378048
+NFLX,Netflix,Communication Services,NMS,USD,192.91,85.449875456
+NWL,Newell Brands,Consumer Discretionary,NMS,USD,21.49,9.141846016
+NEM,Newmont,Materials,NYQ,USD,67.27,53.64344832
+NWSA,News Corp (Class A),Communication Services,NMS,USD,17.21,10.22317056
+NWS,News Corp (Class B),Communication Services,NMS,USD,17.38,10.238035968
+NEE,NextEra Energy,Utilities,NYQ,USD,76.17,149.456207872
+NLSN,Nielsen,Industrials,NYQ,USD,25.43,9.127514112
+NKE,Nike,Consumer Discretionary,NYQ,USD,118.68,187.849080832
+NI,NiSource,Utilities,NYQ,USD,31.34,12.30737408
+NDSN,Nordson,Industrials,NMS,USD,215.35,12.528330752
+NSC,Norfolk Southern,Industrials,NYQ,USD,241.94,58.874888192
+NTRS,Northern Trust,Financials,NMS,USD,108.76,22.58521088
+NOC,Northrop Grumman,Industrials,NYQ,USD,464.25,73.044164608
+NLOK,NortonLifeLock,Information Technology,NMS,USD,24.36,14.171552768
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,NYQ,USD,15.29,6.374278656
+NRG,NRG Energy,Utilities,NYQ,USD,45.49,11.137726464
+NUE,Nucor,Materials,NYQ,USD,130.71,37.35678976
+NVDA,Nvidia,Information Technology,NMS,USD,183.2,456.534392832
+NVR,NVR,Consumer Discretionary,NYQ,USD,4387.68,15.28119296
+NXPI,NXP,Information Technology,NMS,USD,184.57,49.083252736
+ORLY,O'Reilly Automotive,Consumer Discretionary,NMS,USD,624.61,42.085220352
+OXY,Occidental Petroleum,Energy,NYQ,USD,70.42,65.770938368
+ODFL,Old Dominion,Industrials,NMS,USD,257.42,29.60613376
+OMC,Omnicom Group,Communication Services,NYQ,USD,72.92,15.499802624
+OKE,Oneok,Energy,NYQ,USD,66.85,29.810886656
+ORCL,Oracle,Information Technology,NYQ,USD,71.6,191.204212736
+OGN,Organon,Health Care,NYQ,USD,37.75,9.57151232
+OTIS,Otis,Industrials,NYQ,USD,73.97,31.420162048
+PCAR,Paccar,Industrials,NMS,USD,88.54,30.739050496
+PKG,Packaging Corporation of America,Materials,NYQ,USD,157.47,14.958201856
+PARA,Paramount,Communication Services,NMS,USD,32.35,0.0
+PH,Parker,Industrials,NYQ,USD,272.5,35.020337152
+PAYX,Paychex,Information Technology,NMS,USD,122.26,44.106149888
+PAYC,Paycom,Information Technology,NYQ,USD,282.18,16.938080256
+PYPL,PayPal,Information Technology,NMS,USD,82.48,96.908230656
+PENN,Penn National Gaming,Consumer Discretionary,NMS,USD,31.88,5.40410624
+PNR,Pentair,Industrials,NYQ,USD,49.58,8.204399616
+PEP,PepsiCo,Consumer Staples,NMS,USD,166.49,230.197395456
+PKI,PerkinElmer,Health Care,NYQ,USD,146.1,18.437820416
+PFE,Pfizer,Health Care,NYQ,USD,52.37,293.94599936
+PM,Philip Morris International,Consumer Staples,NYQ,USD,105.76,164.650336256
+PSX,Phillips 66,Energy,NYQ,USD,103.18,45.213679616
+PNW,Pinnacle West,Utilities,NYQ,USD,77.43,8.73557504
+PXD,Pioneer Natural Resources,Energy,NYQ,USD,277.82,67.825307648
+PNC,PNC Financial Services,Financials,NYQ,USD,172.44,72.88020992
+POOL,Pool Corporation,Consumer Discretionary,NMS,USD,393.04,15.756187648
+PPG,PPG Industries,Materials,NYQ,USD,125.37,29.762963456
+PPL,PPL,Utilities,NYQ,USD,29.93,22.468931584
+PFG,Principal,Financials,NMS,USD,71.6,18.97893888
+PG,Procter & Gamble,Consumer Staples,NYQ,USD,145.64,352.441532416
+PGR,Progressive,Financials,NYQ,USD,118.47,69.2338688
+PLD,Prologis,Real Estate,NYQ,USD,125.86,93.051691008
+PRU,Prudential,Financials,NYQ,USD,105.32,39.810961408
+PEG,PSEG,Utilities,NYQ,USD,68.1,34.435719168
+PTC,PTC,Information Technology,NMS,USD,116.42,13.722657792
+PSA,Public Storage,Real Estate,NYQ,USD,330.62,57.975873536
+PHM,PulteGroup,Consumer Discretionary,NYQ,USD,44.92,11.373114368
+PVH,PVH,Consumer Discretionary,NYQ,USD,71.11,4.976107008
+QRVO,Qorvo,Information Technology,NMS,USD,109.59,12.079338496
+PWR,Quanta,Industrials,NYQ,USD,119.78,17.068530688
+QCOM,Qualcomm,Information Technology,NMS,USD,140.02,156.82240512
+DGX,Quest Diagnostics,Health Care,NYQ,USD,138.62,17.005207552
+RL,Ralph Lauren,Consumer Discretionary,NYQ,USD,101.19,7.449304576
+RJF,Raymond James,Financials,NYQ,USD,97.74,20.150274048
+RTX,Raytheon Technologies,Industrials,NYQ,USD,94.81,141.909704704
+O,Realty Income,Real Estate,NYQ,USD,68.08,38.517280768
+REG,Regency Centers,Real Estate,NMS,USD,67.35,11.531194368
+REGN,Regeneron,Health Care,NMS,USD,658.92,70.8622336
+RF,Regions,Financials,NYQ,USD,21.61,20.600446976
+RSG,Republic Services,Industrials,NYQ,USD,133.97,42.481217536
+RMD,ResMed,Health Care,NYQ,USD,202.71,29.53951232
+RHI,Robert Half,Industrials,NYQ,USD,86.97,9.68237056
+ROK,Rockwell Automation,Industrials,NYQ,USD,217.01,25.175980032
+ROL,Rollins,Industrials,NYQ,USD,34.99,17.216794624
+ROP,Roper,Industrials,NYQ,USD,430.83,45.44610304
+ROST,Ross,Consumer Discretionary,NMS,USD,82.66,29.206257664
+RCL,Royal Caribbean Group,Consumer Discretionary,NYQ,USD,55.57,14.158680064
+SPGI,S&P Global,Financials,NYQ,USD,332.01,80.014409728
+CRM,Salesforce,Information Technology,NYQ,USD,176.07,173.428965376
+SBAC,SBA Communications,Real Estate,NMS,USD,331.08,36.015210496
+SLB,Schlumberger,Energy,NYQ,USD,46.68,65.474768896
+STX,Seagate,Information Technology,NMS,USD,83.68,18.630180864
+SEE,Sealed Air,Materials,NYQ,USD,62.25,9.222772736
+SRE,Sempra Energy,Utilities,NYQ,USD,163.52,52.217987072
+NOW,ServiceNow,Information Technology,NYQ,USD,475.13,94.550867968
+SHW,Sherwin-Williams,Materials,NYQ,USD,265.26,69.550112768
+SBNY,Signature Bank,Financials,NMS,USD,211.83,12.843761664
+SPG,Simon,Real Estate,NYQ,USD,111.17,36.532576256
+SWKS,Skyworks,Information Technology,NMS,USD,107.27,17.741064192
+SJM,Smucker,Consumer Staples,NYQ,USD,124.55,13.49661184
+SNA,Snap-on,Industrials,NYQ,USD,216.96,11.614953472
+SEDG,SolarEdge,Information Technology,NMS,USD,272.48,14.310513664
+SO,Southern Company,Utilities,NYQ,USD,75.55,80.067895296
+LUV,Southwest Airlines,Industrials,NYQ,USD,44.15,26.13326848
+SWK,Stanley Black & Decker,Industrials,NYQ,USD,114.7,18.699884544
+SBUX,Starbucks,Consumer Discretionary,NMS,USD,76.28,0.0
+STT,State Street,Financials,NYQ,USD,69.95,25.575747584
+STE,Steris,Health Care,NYQ,USD,221.46,22.151094272
+SYK,Stryker,Health Care,NYQ,USD,228.0,86.01071616
+SIVB,SVB Financial,Financials,NMS,USD,474.72,27.860082688
+SYF,Synchrony,Financials,NYQ,USD,35.87,19.630180352
+SNPS,Synopsys,Information Technology,NMS,USD,316.86,48.618360832
+SYY,Sysco,Consumer Staples,NYQ,USD,83.25,42.678611968
+TMUS,T-Mobile,Communication Services,NMS,USD,134.56,168.072167424
+TROW,T. Rowe Price,Financials,NMS,USD,123.89,28.395339776
+TTWO,Take-Two Interactive,Communication Services,NMS,USD,124.63,14.369839104
+TPR,Tapestry,Consumer Discretionary,NYQ,USD,34.14,9.3933824
+TGT,Target,Consumer Discretionary,NYQ,USD,156.52,74.992492544
+TEL,TE Connectivity,Information Technology,NYQ,USD,128.16,41.820274688
+TDY,Teledyne,Industrials,NYQ,USD,398.83,18.60749312
+TFX,Teleflex,Health Care,NYQ,USD,282.86,13.250576384
+TER,Teradyne,Information Technology,NMS,USD,106.64,17.382746112
+TSLA,Tesla,Consumer Discretionary,NMS,USD,740.37,743.5239424
+TXN,Texas Instruments,Information Technology,NMS,USD,174.42,161.081409536
+TXT,Textron,Industrials,NYQ,USD,65.31,14.3959552
+TMO,Thermo Fisher Scientific,Health Care,NYQ,USD,556.22,219.1773696
+TJX,TJX Companies,Consumer Discretionary,NYQ,USD,62.5,74.554998784
+TSCO,Tractor Supply,Consumer Discretionary,NMS,USD,190.66,21.699969024
+TT,Trane Technologies,Industrials,NYQ,USD,136.34,32.386203648
+TDG,TransDigm,Industrials,NYQ,USD,600.09,33.15431424
+TRV,Travelers,Financials,NYQ,USD,176.29,43.368923136
+TRMB,Trimble,Information Technology,NMS,USD,67.24,16.877776896
+TFC,Truist,Financials,NYQ,USD,48.92,65.30281472
+TWTR,Twitter,Communication Services,NYQ,USD,39.3,31.424671744
+TYL,Tyler Technologies,Information Technology,NYQ,USD,345.87,14.17247232
+TSN,Tyson,Consumer Staples,NYQ,USD,88.14,32.001957888
+USB,U.S. Bank,Financials,NYQ,USD,51.75,76.734898176
+UDR,UDR,Real Estate,NYQ,USD,47.92,14.816191488
+ULTA,Ulta Beauty,Consumer Discretionary,NMS,USD,407.32,22.044239872
+UAA,Under Armour (Class A),Consumer Discretionary,NYQ,USD,10.33,4.520366592
+UA,Under Armour (Class C),Consumer Discretionary,NYQ,USD,9.41,4.857216
+UNP,Union Pacific,Industrials,NYQ,USD,221.32,142.281326592
+UAL,United Airlines,Industrials,NMS,USD,45.49,14.729980928
+UNH,UnitedHealth Group,Health Care,NYQ,USD,492.55,463.90870016
+UPS,United Parcel Service,Industrials,NYQ,USD,180.23,156.64545792
+URI,United Rentals,Industrials,NYQ,USD,293.5,21.247756288
+UHS,Universal Health Services,Health Care,NYQ,USD,120.75,9.705509888
+VLO,Valero,Energy,NYQ,USD,132.55,54.191214592
+VTR,Ventas,Real Estate,NYQ,USD,56.53,22.565419008
+VRSN,Verisign,Information Technology,NMS,USD,174.37,19.368671232
+VRSK,Verisk,Industrials,NMS,USD,171.23,27.595595776
+VZ,Verizon,Communication Services,NYQ,USD,51.4,215.764877312
+VRTX,Vertex,Health Care,NMS,USD,269.41,68.498030592
+VFC,VF Corporation,Consumer Discretionary,NYQ,USD,49.83,19.572328448
+VTRS,Viatris,Health Care,NMS,USD,12.07,14.597336064
+V,Visa,Information Technology,NYQ,USD,209.93,0.0
+VNO,Vornado Realty Trust,Real Estate,NYQ,USD,33.82,6.482651136
+VMC,Vulcan Materials,Materials,NYQ,USD,164.54,21.835280384
+WAB,Wabtec,Industrials,NYQ,USD,93.21,17.413584896
+WMT,Walmart,Consumer Staples,NYQ,USD,125.45,347.983249408
+WBA,Walgreens Boots Alliance,Consumer Staples,NMS,USD,43.26,37.3742592
+WBD,Warner Bros. Discovery,Communication Services,NMS,USD,17.66,0.0
+WM,Waste Management,Industrials,NYQ,USD,158.53,66.315636736
+WAT,Waters,Health Care,NYQ,USD,321.8,19.641481216
+WEC,WEC Energy Group,Utilities,NYQ,USD,104.67,33.016582144
+WFC,Wells Fargo,Financials,NYQ,USD,45.16,180.063305728
+WELL,Welltower,Real Estate,NYQ,USD,88.16,38.37384704
+WST,West Pharmaceutical Services,Health Care,NYQ,USD,308.58,22.859511808
+WDC,Western Digital,Information Technology,NMS,USD,60.28,18.78463488
+WRK,WestRock,Materials,NYQ,USD,48.14,12.665056256
+WY,Weyerhaeuser,Real Estate,NYQ,USD,38.71,28.995530752
+WHR,Whirlpool,Consumer Discretionary,NYQ,USD,180.53,10.965951488
+WMB,Williams,Energy,NYQ,USD,37.43,45.478572032
+WTW,Willis Towers Watson,Financials,NMS,USD,208.47,0.0
+WYNN,Wynn Resorts,Consumer Discretionary,NMS,USD,65.13,7.53280512
+XEL,Xcel Energy,Utilities,NMS,USD,75.12,40.465338368
+XYL,Xylem,Industrials,NYQ,USD,83.75,15.10221824
+YUM,Yum! Brands,Consumer Discretionary,NYQ,USD,119.42,35.005939712
+ZBRA,Zebra,Information Technology,NMS,USD,334.55,17.878853632
+ZBH,Zimmer Biomet,Health Care,NYQ,USD,119.28,24.918546432
+ZION,Zions Bancorp,Financials,NMS,USD,56.0,8.761928704
+ZTS,Zoetis,Health Care,NYQ,USD,167.02,79.02150656
