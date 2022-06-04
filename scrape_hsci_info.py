@@ -1,4 +1,5 @@
 from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
 from bs4 import BeautifulSoup
 import requests
 import re
@@ -44,6 +45,7 @@ def extract(d,path):
 
     col_names =['Code','Name','Sector']
     df_hsci = pd.DataFrame(records,columns=col_names)
+    # print('\n',df_hsci)
     df_info = pdr.get_quote_yahoo(df_hsci['Code'])
     
     df_hsci['Exchange'] = df_info['exchange'].values
@@ -59,11 +61,9 @@ if __name__=="__main__":
     source = 'https://www.hsi.com.hk/eng/indexes/all-indexes/industry'
     csv_file = 'data/hsci_companies_info.csv'
     driver = webdriver.Chrome()
-    time.sleep(5)
     driver.get(source)
     time.sleep(7)
     c = driver.page_source
     driver.quit()
-    time.sleep(5)
     extract(c,csv_file)
 
