@@ -28,7 +28,8 @@ def extract(d,d_mc,path):
         fields = row.findAll('td')
         if fields:
             f1 = fields[1].text.strip() # names with symbol
-            name,symbol = re.findall(r'([a-zA-Z0-9.\s-]+) \([a-zA-Z0-9]+:([a-zA-Z0-9]+)\)',f1)[0]
+            name,symbol = re.findall(r'([a-zA-Z0-9.\s&-]+) \([a-zA-Z0-9]+:([a-zA-Z0-9]+)\)',f1)[0]
+            symbol += '.SI'
             f2 = fields[2].text.strip() # curreny symbol with share price
             ccy,price = re.findall(r'(SGD|USD) ([0-9.]+)',f2)[0]
             sector = fields[10].text.strip() # sector
@@ -40,6 +41,7 @@ def extract(d,d_mc,path):
         if fields_mc:
             f1_mc = fields_mc[1].text.strip()
             symbol_mc = re.findall(r'[a-zA-Z0-9.\s-]+\([a-zA-Z0-9]+:([a-zA-Z0-9]+)\)',f1_mc)[0]
+            symbol_mc += '.SI'
             f3_mc = fields_mc[3].text.strip()
             marketCap = float(re.findall(r'([0-9.]+)B',f3_mc)[0])
             records_mc.append([symbol_mc,marketCap])
